@@ -267,7 +267,7 @@
 .woocommerce .woocommerce-customer-details .woocommerce-customer-details--email::before {font-family: WooCommerce;speak: none;font-weight: 400;font-variant: normal;text-transform: none;line-height: 1;line-height: inherit;-webkit-font-smoothing: antialiased;margin-left: .618em;content: "";text-decoration: none;margin-right: -1.5em;position: absolute;}
 .woocommerce ul.cart_list, .woocommerce ul.product_list_widget {list-style: none outside;padding: 0;margin: 0;}
 .woocommerce ul.cart_list *, .woocommerce ul.product_list_widget * {border-color: inherit;}
-.woocommerce ul.cart_list li, .woocommerce ul.product_list_widget li {padding: 0 0 .75em 0;margin-top: .75em;border-bottom-width: 1px;border-bottom-style: solid;}
+.woocommerce ul.cart_list li, .woocommerce ul.product_list_widget li {padding: 0 0 .75em;margin-top: .75em;border-bottom-width: 1px;border-bottom-style: solid;}
 .woocommerce ul.cart_list li:after, .woocommerce ul.cart_list li:before, .woocommerce ul.product_list_widget li:after, .woocommerce ul.product_list_widget li:before {content: "";display: table;}
 .woocommerce ul.cart_list li:after, .woocommerce ul.product_list_widget li:after {clear: both;}
 .woocommerce ul.cart_list li.empty, .woocommerce ul.product_list_widget li.empty {margin: 0;padding: 0;text-align: center;}
@@ -405,7 +405,7 @@
 .woocommerce-cart .wc-proceed-to-checkout {margin: 2rem 0 0;text-align: left;}
 .woocommerce-cart .wc-proceed-to-checkout a.checkout-button {display: inline-block;margin-bottom: 0;font-size: 1.2rem;padding: 14px 28px;}
 .woocommerce-cart .shipping-calculator-button::after {font-family: WooCommerce;speak: none;font-weight: 400;font-variant: normal;text-transform: none;line-height: 1;-webkit-font-smoothing: antialiased;margin-right: .618em;content: "";text-decoration: none;}
-.woocommerce-cart .shipping-calculator-form {margin: 1em 0 0 0;}
+.woocommerce-cart .shipping-calculator-form {margin: 1em 0 0;}
 .woocommerce-cart .shipping-calculator-form p:last-of-type {margin-bottom: 0;}
 .woocommerce-cart .cart_totals h2 {font-size: 22px;font-style: normal;font-weight: 600;line-height: 1.5;letter-spacing: 0;text-transform: none;}
 .woocommerce-cart .cart_totals table th {width: 35%;}
