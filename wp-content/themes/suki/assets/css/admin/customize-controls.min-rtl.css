@@ -28,7 +28,7 @@ li:not(.customize-info) div.customize-section-description {margin: 0 -12px;paddi
 #customize-theme-controls .control-section-suki-section-pro-link .accordion-section-title:focus, #customize-theme-controls .control-section-suki-section-pro-link .accordion-section-title:hover {background-color: #ec3b3c;border-color: #ec3b3c;border-right-color: #a61011;color: #fff;}
 .customize-control-suki-pro-teaser {margin: 20px 0 12px;}
 .suki-pro-teaser {background-color: #fff8e5;margin-top: -1px;border-top: 1px solid #ddd;border-bottom: 1px solid #ddd;cursor: default;color: inherit;}
-.customize-control>.suki-pro-teaser {margin: 0 -12px;padding: 12px 12px 12px 12px;}
+.customize-control>.suki-pro-teaser {margin: 0 -12px;padding: 12px;}
 .accordion-section>.suki-pro-teaser {padding: 12px 18px 12px 10px;}
 .suki-pro-teaser h3 {display: inline-block;color: inherit;margin: 0;}
 .suki-pro-teaser .button {margin: -3px 8px 0 0;font-weight: 400;}
